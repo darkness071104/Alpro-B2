@@ -13,7 +13,7 @@ int main()
     printf("Masukkan nomor bulan =");
     scanf("%d", &m);
 
-    if (1 <= m<=12){
+    if (1 <= m <= 12){
 
         if (m == 1){
             printf ("Januari");
@@ -48,7 +48,7 @@ int main()
         else if (m == 11){
             printf("November");
         }
-        else if (m==12){
+        else if (m == 12){
             printf("Desember");
         }
     else

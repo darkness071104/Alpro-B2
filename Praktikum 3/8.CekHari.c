@@ -1,6 +1,6 @@
 /* Nama File : 8.CekHari.c*/
 /* Deskripsi : menampilkan nama-nama hari dari nomor hari yang diinputkan*/
-/* nama Pembuat : 24060121140140-Fauzan Ramadhan Putra*/
+/* Pembuat : 24060121140140-Fauzan Ramadhan Putra*/
 /* Tanggal Pembuatan : Jumat, 11 Maret 2022*/
 
 #include <stdio.h> /*header file*/
